@@ -5,7 +5,10 @@ body{
     background-color: #1F85DE;
     color:black;
 }
-
+.jumbotron1{
+    background-color: #1F85DE;
+    color:black;
+}
 .panel-heading{
     background-color: #1F85DE !important;
 }
